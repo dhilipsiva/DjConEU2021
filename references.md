@@ -10,3 +10,7 @@
 1. https://12factor.net/
 1. https://docs.djangoproject.com/en/3.2/internals/contributing/writing-code/coding-style/
 1. https://github.com/HackSoftware/Django-Styleguide#services
+
+# recording
+
+https://flathub.org/apps/details/com.obsproject.Studio
